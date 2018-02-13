@@ -108,9 +108,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ServerlessApp\ServerlessApp.csproj">
-      <Project>{369080B8-9467-4A37-AA95-12FE60952EEF}</Project>
-      <Name>ServerlessApp</Name>
+    <ProjectReference Include="..\ServerlessApp.Core\ServerlessApp.Core.csproj">
+      <Project>{C8D07E45-611F-4E9D-AD95-DEB765A5F24E}</Project>
+      <Name>ServerlessApp.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
